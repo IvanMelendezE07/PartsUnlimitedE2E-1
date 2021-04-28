@@ -5,7 +5,7 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
-        //Iván: First change
+        //Iván: Change in release branch
         public int CategoryId { get; set; }
 
         [Required]
